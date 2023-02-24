@@ -1,0 +1,30 @@
+F:\SummerOOP\Desktop Game\Desktop Game\bin\Debug\Desktop Game.exe.config
+F:\SummerOOP\Desktop Game\Desktop Game\bin\Debug\Desktop Game.exe
+F:\SummerOOP\Desktop Game\Desktop Game\bin\Debug\Desktop Game.pdb
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.AssemblyReference.cache
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.Form1.resources
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.Properties.Resources.resources
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.GenerateResource.cache
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.CoreCompileInputs.cache
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.exe
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.pdb
+F:\SummerOOP\Desktop Game\Desktop Game\bin\Debug\EZInput.dll
+F:\SummerOOP\Desktop Game\Desktop Game\bin\Debug\EZInput.xml
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.CopyComplete
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.StartForm.resources
+F:\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.END.resources
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\bin\Debug\Desktop Game.exe.config
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\bin\Debug\Desktop Game.exe
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\bin\Debug\Desktop Game.pdb
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\bin\Debug\EZInput.dll
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\bin\Debug\EZInput.xml
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.AssemblyReference.cache
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.END.resources
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.Form1.resources
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.Properties.Resources.resources
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop_Game.StartForm.resources
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.GenerateResource.cache
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.CoreCompileInputs.cache
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.csproj.CopyComplete
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.exe
+F:\Books\2 nd Semester\SummerOOP\Desktop Game\Desktop Game\obj\Debug\Desktop Game.pdb
